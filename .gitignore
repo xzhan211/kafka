@@ -1,0 +1,14 @@
+# Misc
+.DS_Store
+*.iml
+.idea/
+target/
+.classpath
+.project
+.settings/
+build/
+.gradle/
+logs/
+out/
+/bin/
+*.txt
